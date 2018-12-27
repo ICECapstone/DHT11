@@ -8,3 +8,7 @@ You will need:
 - Jumper wires
 
 ![dht11](https://user-images.githubusercontent.com/11530521/50460236-de481d80-09a6-11e9-8140-5591fb9e89b8.png)
+
+Serial out looks like this:
+
+![screen shot 2018-12-27 at 7 13 59 am](https://user-images.githubusercontent.com/11530521/50460258-05065400-09a7-11e9-9f02-da9f0f72443a.png)
